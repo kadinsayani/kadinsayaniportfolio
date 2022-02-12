@@ -18,34 +18,14 @@ export const projects = [
 ];
 
 export const skills = [
-  {
-    skill: "MongoDB",
-  },
-  {
-    skill: "Express.js",
-  },
-  {
-    skill: "React.js",
-  },
-  {
-    skill: "Node.js",
-  },
-  {
-    skill: "java",
-  },
-  {
-    skill: "Python",
-  },
-  {
-    skill: "Swift",
-  },
-  {
-    skill: "C",
-  },
-  {
-    skill: "C++",
-  },
-  {
-    skill: "Assembly",
-  },
+  "MongoDB",
+  "Express.js",
+  "React.js",
+  "Node.js",
+  "Java",
+  "Python",
+  "Swift",
+  "C",
+  "C++",
+  "Assembly",
 ];
