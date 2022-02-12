@@ -2,7 +2,7 @@ export const projects = [
   {
     title: "Konsume",
     subtitle: "React Native",
-    description: "NLP Calorie and Macro Tracking",
+    description: "NLP Calorie and Macro Tracking.",
     image: "",
     link: "",
   },
