@@ -1,17 +1,16 @@
 export const projects = [
   {
-    title: "Wellness Tracker",
-    subtitle: "Java, JavaFX",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+    title: "Konsume",
+    subtitle: "React Native",
+    description: "NLP Calorie and Macro Tracking",
     image: "",
     link: "",
   },
   {
-    title: "Konsume",
+    title: "Kore",
     subtitle: "MERN",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "Application that creates custom workout plans based on user data.",
     image: "",
     link: "",
   },
