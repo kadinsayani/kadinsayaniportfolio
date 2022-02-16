@@ -17,14 +17,15 @@ export const projects = [
 ];
 
 export const skills = [
-  "MongoDB",
-  "Express.js",
-  "React.js",
-  "Node.js",
+  "JavaScript",
   "Java",
-  "Python",
   "Swift",
-  "C",
+  "Python",
   "C++",
+  "C",
   "Assembly",
+  "AWS",
+  "MERN Stack",
+  "SQL",
+  "Linux",
 ];
