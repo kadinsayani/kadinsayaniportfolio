@@ -27,5 +27,4 @@ export const skills = [
   "AWS",
   "MERN Stack",
   "SQL",
-  "Linux",
 ];
