@@ -10,7 +10,7 @@ export const projects = [
     title: "Kore",
     subtitle: "Swift",
     description:
-      "Exercise database for learning exercises and creating workout routines.",
+      "iOS app for learning exercises and creating workout routines.",
     image: "",
     link: "",
   },
