@@ -2,7 +2,7 @@ export const projects = [
   {
     title: "Wellness Tracker",
     subtitle: "Java",
-    description: "NLP wellness and calorie Tracking.",
+    description: "NLP wellness and calorie tracking.",
     image: "./wellness_tracker.jpg",
     link: "https://github.com/kadinsayani/Wellness-Tracker",
   },
