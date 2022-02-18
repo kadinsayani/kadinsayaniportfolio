@@ -2,17 +2,16 @@ export const projects = [
   {
     title: "Wellness Tracker",
     subtitle: "Java",
-    description: "NLP Wellness and Calorie Tracking.",
+    description: "NLP wellness and calorie Tracking.",
     image: "./wellness_tracker.jpg",
     link: "https://github.com/kadinsayani/Wellness-Tracker",
   },
   {
     title: "Kore",
     subtitle: "Swift",
-    description:
-      "iOS app for learning exercises and creating workout routines.",
+    description: "iOS workout app.",
     image: "",
-    link: "",
+    link: "https://github.com/kadinsayani/kore",
   },
 ];
 
