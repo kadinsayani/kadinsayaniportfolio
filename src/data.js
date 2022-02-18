@@ -1,16 +1,16 @@
 export const projects = [
   {
-    title: "Konsume",
-    subtitle: "React Native",
-    description: "NLP Calorie and Macro Tracking.",
-    image: "",
-    link: "",
+    title: "Wellness Tracker",
+    subtitle: "Java",
+    description: "NLP Wellness and Calorie Tracking.",
+    image: "./wellness_tracker.jpg",
+    link: "https://github.com/kadinsayani/Wellness-Tracker",
   },
   {
     title: "Kore",
-    subtitle: "MERN",
+    subtitle: "Swift",
     description:
-      "Application that creates custom workout plans based on user data.",
+      "Exercise database for learning exercises and creating workout routines.",
     image: "",
     link: "",
   },
