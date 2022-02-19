@@ -16,9 +16,9 @@ export const projects = [
 ];
 
 export const skills = [
-  "JavaScript",
-  "Java",
   "Swift",
+  "Java",
+  "JavaScript",
   "Python",
   "C++",
   "C",
